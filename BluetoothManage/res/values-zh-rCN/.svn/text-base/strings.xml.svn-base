@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, MainActivity!</string>
+	<string name="app_name">ITEAD BT Debugging Assistant</string>
+	<string name="setting">设置</string>
+	<string name="searchdevice">搜索设备</string>
+	<string name="monitor">监视器</string>
+	<string name="about">关于</string>
+	<string name="exit">退出</string>
+	<string name="uri">http://www.iteadstudio.com</string>
+	<string name="message">确认退出？</string>
+	<string name="ok">确认</string>
+	<string name="cancel">取消</string>
+	<string-array name="language">
+		<item>英文</item>
+		<item>简体中文</item>
+	</string-array>
+	<string name="open">打开蓝牙</string>
+	<string name="close">关闭蓝牙</string>
+	<string name="allowdiscoverable">允许检测</string>
+	<string name="bluetoothmessage">您的蓝牙设备未启用，请先启用。</string>
+	<string name="strreturn">返回</string>
+	<string name="scaning">正在扫描...</string>
+	<string name="nodevice">没有找到蓝牙设备!</string>
+	<string name="send">发送</string>
+	<string name="clear">清空</string>
+	<string name="hexview">Hex显示</string>
+	<string name="hexsend">Hex发送</string>
+	<string name="selectonedevice">请选择设备连接</string>
+	<string name="version">version:1.0.0</string>
+	<string name="about1">ITead studio is located on Shenzhen where has the
+		largest electronic market and the most complete chain of electronics
+		industry of China. A vast number of exciting and innovative products
+		are manufactured around us every day.</string>
+	<string name="about_us">About us</string>
+	<string name="about2">We believe that everyone should have the tool,
+		hardware platform and resource to play with cool electronic gadgetry
+		.Our goal is to fuels ubiquitous innovation with fast prototyping
+		modules, convenient development platform at low price, even
+		customizable solutions.</string>
+
+	<string name="ioexception">连接失败</string>
+	<string name="wait">请等待连接设备...</string>
+	<string name="number">请输入有效的Hex字符,如：\'0-9\',\'A-F\',\'a-f\'</string>
+<string name="newline">发送新行</string>
+</resources>
